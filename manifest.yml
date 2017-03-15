@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: maw-submeter-simulator-d
+  host: maw-submeter-simulator-d
+  disk_quota: 1024M
